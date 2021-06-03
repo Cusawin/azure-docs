@@ -26,6 +26,7 @@ This article walks through the steps to export APIs from API Management to the P
 + Complete the following quickstart: [Create an Azure API Management instance](get-started-create-service-instance.md)
 + Make sure there is an API in your API Management instance that you'd like to export to the Power Platform
 + Make sure you have a Power Apps or Power Automate [environment](/powerapps/powerapps-overview#power-apps-for-admins) 
++ OpenAPI specification must be 2.0 or lower.
 
 ## Export an API
 
